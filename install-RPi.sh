@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # -*- coding: utf-8 -*-
 # shell-scripts
 
