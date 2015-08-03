@@ -3,7 +3,8 @@
 # shell-scripts
 
 #### install RPi-repo
-cd /home/pi
+mkdir /home/pi/git-working-dir
+cd /home/pi/git-working-dir
 git clone https://github.com/getarun/RPi
 cd RPi
 chmod +x ./install.sh
