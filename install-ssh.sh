@@ -1,5 +1,5 @@
 #!/bin/bash
--*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 echo "installing ssh-software"
 sudo apt-get install openssh-server openssh-client ssh-agent
 ssh-keygen
