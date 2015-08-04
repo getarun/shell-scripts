@@ -1,5 +1,5 @@
 #!/bin/bash
--*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 
 sudo apt-get install git
 mkdir /home/pi/git-working-dir
