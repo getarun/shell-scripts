@@ -1,5 +1,5 @@
 #!/bin/bash
--*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 
 #### install Adafruit library for DHT22 sensors
 cd /home/pi/git-working-dir

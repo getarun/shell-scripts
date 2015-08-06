@@ -1,6 +1,6 @@
 #!/bin/bash
 # -*- coding: utf-8 -*-
-# shell-scripts
+# Installations-script für RPi
 
 #### install RPi-repo
 mkdir /home/pi/git-working-dir
