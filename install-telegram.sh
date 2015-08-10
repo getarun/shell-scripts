@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo "installiere Telegram"
+echo "installiere Telegram aus getarun/tg"
 cd /home/pi/git-working/dir
-git clone https://github.com/getarun/telegram
-sh telegram/install.sh
+git clone https://github.com/getarun/tg
+cd tg
+./configure
+make
+sudo make install
