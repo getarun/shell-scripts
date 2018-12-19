@@ -1,7 +1,7 @@
 #!/bin/bash
 #-*- coding: utf-8 -*-
 echo "installing ssh-software"
-sudo apt-get install openssh-server openssh-client ssh-agent
+sudo apt-get install openssh-server openssh-client ssh-askpass
 ssh-keygen
 echo "created key pair ~/.ssh/id_rsa"
 ssh-agent -s
